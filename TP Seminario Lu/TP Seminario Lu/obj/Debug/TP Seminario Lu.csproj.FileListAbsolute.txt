@@ -1,0 +1,22 @@
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\bin\Debug\TP Seminario Lu.exe.config
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\bin\Debug\TP Seminario Lu.exe
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\bin\Debug\TP Seminario Lu.pdb
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.csprojAssemblyReference.cache
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP_Seminario_Lu.Form1.resources
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP_Seminario_Lu.Properties.Resources.resources
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.csproj.GenerateResource.cache
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.csproj.CoreCompileInputs.cache
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.exe
+C:\Users\46755821\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.pdb
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\bin\Debug\TP Seminario Lu.exe.config
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\bin\Debug\TP Seminario Lu.exe
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\bin\Debug\TP Seminario Lu.pdb
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.csproj.AssemblyReference.cache
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP_Seminario_Lu.Properties.Resources.resources
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.csproj.GenerateResource.cache
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.csproj.CoreCompileInputs.cache
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.exe
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP Seminario Lu.pdb
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP_Seminario_Lu.QueQuieroComer.resources
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP_Seminario_Lu.Registrarse.resources
+C:\Users\nicou\Downloads\TP Seminario Lu\TP Seminario Lu\obj\Debug\TP_Seminario_Lu.LogIn.resources
